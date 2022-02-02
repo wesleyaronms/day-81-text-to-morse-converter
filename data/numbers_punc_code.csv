@@ -1,0 +1,11 @@
+Number,Code,Punctuation,Code.1
+1,*----,Period,*-*-*-
+2,**---,Comma,--**--
+3,***--,Colon,---***
+4,****-,Question Mark,**--**
+5,*****,Apostrophe,*----*
+6,-****,Hyphen,-****-
+7,--***,Fraction Bar,-**-*
+8,---**,Parentheses,-*--*-
+9,----*,Quotation Marks,*-**-*
+0,-----,,
